@@ -11,6 +11,8 @@ Link to Kaggle Competition: [here](https://www.kaggle.com/c/rob535-fall2021-task
 
 Data to competition: [here](https://drive.google.com/drive/u/1/folders/15LPTXADcZGv0ZE262yqdwFHDTnP_R_Bx)
 
+A pre-trained model can be found on the Google Drive [here](https://drive.google.com/file/d/1Wn9kTnS5ioVZ-yJ36ZPtKq3lIbA0npBZ/view?usp=sharing)
+
 You need to be in the umich organization to access the dataset.
 
 
