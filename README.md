@@ -35,7 +35,7 @@ and configure the required enviornment.
 
 ### Option 2: 
 
-To save the effort of downloading and install the packages, we suggest you to open the jupyter notebook (.ipynb) file using [Google Colab](https://colab.research.google.com/?utm_source=scs-index), by opening the file ["Vehicle_Classification_Team_13_submission.ipynb"](https://github.com/wangy319/ROB535-Tean13-Final-Project/blob/main/Vehicle_Classification_Team_13_submission.ipynb) on github and click on "Open in Colab" button on the top-left of the file. Follow the instructions specified in the document to setup the connection to Drive and play around with the project code. A GPU session is suggested to improve the training and evaluation speed of the model.
+To save the effort of downloading and installing the packages, we suggest you to open the jupyter notebook (.ipynb) file using [Google Colab](https://colab.research.google.com/?utm_source=scs-index), by opening the file ["Vehicle_Classification_Team_13_submission.ipynb"](https://github.com/wangy319/ROB535-Tean13-Final-Project/blob/main/Vehicle_Classification_Team_13_submission.ipynb) on github and click on "Open in Colab" button on the top-left of the file. Follow the instructions specified in the document to setup the connection to Drive and play around with the project code. A GPU session is suggested to improve the training and evaluation speed of the model.
 
 
 ## Code Explanation
