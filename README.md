@@ -3,7 +3,15 @@ Part 1 of the Perception final project for ME599/NAVARCH565/ROB535 Fall2021, Tea
 Team members: 
 Heming Huang, Jingyu Song, Michelle Ji, Min Deng, Tingjun Li, Yingxue Wang
 
-Link to [Kaggle Competition](https://www.kaggle.com/c/rob535-fall2021-task1/overview).
+
+
+## Data and Resources
+
+Link to Kaggle Competition: [here](https://www.kaggle.com/c/rob535-fall2021-task1/overview).
+
+Data to competition: [here](https://drive.google.com/drive/u/1/folders/15LPTXADcZGv0ZE262yqdwFHDTnP_R_Bx)
+
+You need to be in the umich organization to access the dataset.
 
 
 ## Project Setup
@@ -27,7 +35,7 @@ and configure the required enviornment.
 
 ### Option 2: 
 
-To save the effort of downloading and install the packages, we suggest you to open the jupyter notebook (.ipynb) file using [Google Colab](https://colab.research.google.com/?utm_source=scs-index), by opening the file ["Vehicle_Classification_Team_13_submission.ipynb"](https://github.com/wangy319/ROB535-Tean13-Final-Project/blob/main/Vehicle_Classification_Team_13_submission.ipynb) on github and click on "Open in Colab" button on the top-left of the file. Follow the instructions specified in the document to setup the connection to Drive and play around with the project code. A GPU session is suggested to improved the training and evaluation speed of the model.
+To save the effort of downloading and install the packages, we suggest you to open the jupyter notebook (.ipynb) file using [Google Colab](https://colab.research.google.com/?utm_source=scs-index), by opening the file ["Vehicle_Classification_Team_13_submission.ipynb"](https://github.com/wangy319/ROB535-Tean13-Final-Project/blob/main/Vehicle_Classification_Team_13_submission.ipynb) on github and click on "Open in Colab" button on the top-left of the file. Follow the instructions specified in the document to setup the connection to Drive and play around with the project code. A GPU session is suggested to improve the training and evaluation speed of the model.
 
 
 ## Code Explanation
