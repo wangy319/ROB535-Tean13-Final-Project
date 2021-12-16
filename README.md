@@ -56,7 +56,7 @@ Project Code
 | Model Evaluation -> Generate .csv file for test-set evaluation
 
 ```
-
+Please refer to ["Vehicle_Classification_Team_13_submission.ipynb"](https://github.com/wangy319/ROB535-Tean13-Final-Project/blob/main/Vehicle_Classification_Team_13_submission.ipynb) for more detailed instructions. 
 
 
 
